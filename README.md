@@ -5,7 +5,8 @@ NOTE: There are other guides out there that describe encrypting the boot drive, 
 
 Download the excel file to view the instructions as well as generate the commands required to run. 
 
-"Drive Encryption Steps" covers encrpyting a drive with LUKS and then having it auto-unlock on boot
+"Drive Encryption Steps" covers encrpyting a drive with LUKS and then having it auto-unlock on boot.
+
 "File Migration Commands" covers migrating files from one drive to another (in this case migrating files from an encrpyted drive to an encrypted drive)
 
 FULL DISCLAIMER: 
